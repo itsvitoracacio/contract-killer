@@ -1,11 +1,11 @@
 # Contract Killer w/ Ongoing Hosting & Maintenance
 
 ### _Note from Vitor:_
-This Sam's version of the Contract Killer but adjusted it to fit the business model of redditor Citrous_Oyster.
+This is Sam's version of the Contract Killer but adjusted it to fit the business model of redditor Citrous_Oyster.
 
 **This means it's for an offer of a static website that focuses on performance and search engine rankings. It includes ongoing hosting and maintenance, and all changes and updates the client wants will be made by the developer, while the client will pay a monthly fee with no money down at the start.**
 
-I love the stuff he shares, but I couldn't use the contract he had written, because after reading it, I thought it had some holes, some contradicting parts and it was just too confusing overall - I am not a lawyer though.
+I love the stuff he shares, and he is a legend for sharing his contract. But when I was reading, I thought it had too much legal jargon and the lingo of the Contract Killer does fit my style better. However, I am not a lawyer, so you shouldn't really be using this without proper advice of a qualified and licensed professional.
 
 Stuff inside [brackets] are meant to be changed for anyone using this file. And stuff in _italic_ is what you probably want to review before sending the contract to each new client, as it might changed based on what you have agreed upon.
 
